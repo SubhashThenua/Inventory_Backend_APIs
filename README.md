@@ -1,4 +1,4 @@
-Here's a well-maintained, comprehensive `README.md` for your Inventory Management API:
+Here's a well-maintained, comprehensive `README.md` for Inventory Management API:
 
 ```markdown
 # Inventory Management API
